@@ -1,0 +1,12 @@
+PRINTER - ?
+Preset - 0.20mm quality
+Layer height - 0.20mm
+Material - ?
+Perimeters - 2
+INFIL - 20%
+Brim +
+Supports - On build plate
+Nosecone: with Fuzzy skin (All walls, thickness = point thickness = 0.20mm), do not fuzzy connects
+Practial print order: cap, mount, payload, nosecone\
+Colors: view rocket.obj
+Max Total Weight = 100g
