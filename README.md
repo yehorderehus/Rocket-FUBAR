@@ -1,16 +1,22 @@
-# Rocket-FUBAR
-Files for rocket model 3d print, which uses a motor with a diameter of 18 mm and height of 70 mm
+# Rocket-FUBAR: 3D Print and Assembly Instructions
 
-tentatively:
-PRINTER - ?
-Preset - 0.20mm quality
-Layer height - 0.20mm
-Material - ?
-Perimeters - 2
-INFIL - 20%
-Brim +
-Supports - On build plate
-Nosecone: with Fuzzy skin (All walls, thickness = point thickness = 0.20mm), do not fuzzy connects
-Practial print order: CAP, MOUNT, PAYLOAD, NOSECONE
-Colors: view rocket.obj
-Max summary printed weight = 120g
+## Overview
+Rocket-FUBAR is a compact model rocket designed for a motor with the following specifications:
+- Diameter: 18 mm
+- Height: 70 mm
+- Impulse: 10 N·s
+
+## Optimal Printing Details
+- Printer: TBD (compatible with standard FDM 3D printers)
+- Preset: 0.20 mm Quality
+- Layer Height: 0.20 mm
+- Material: PLA or PETG
+- Perimeters: 2
+- Infill: 20%
+- Brim: Enabled
+- Supports: On build plate only
+- Nosecone Special Setting: Enable "Fuzzy Skin" for all walls with a thickness of 0.20 mm; ensure no fuzzy connections.
+
+**Max Printed Weight**: Ensure the total weight of the components does not exceed 120 g.
+
+### Do not forget about the Parachute and 3 mm Guide Rod
