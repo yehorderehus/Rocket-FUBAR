@@ -19,4 +19,4 @@ Rocket-FUBAR is a compact model rocket designed for a motor with the following s
 
 **Max Printed Weight**: Ensure the total weight of the components does not exceed 120 g.
 
-### Do not forget about the Parachute and 3 mm Guide Rod
+### Mount and Payload have to be glued; and do not forget about the Parachute and 3 mm Guide Rod
