@@ -2,10 +2,16 @@
 Files for rocket model 3d print, which uses a motor with a diameter of 18 mm and height of 70 mm (for example, Klima C6-5)
 
 - Layer height - 0.20 mm
-- Material - any
-- Infill - 20%
-- Perimeters - 2
+- Infill - 15%
+- Perimeters - 4
 - Brim +
 - Supports - grid, on build plate
-- Nosecone: with Fuzzy skin (All walls, thickness = point thickness = 0.20mm), don't do fuzzy connects
-- Max summary printed weight = 120g
+- Nosecone: with Fuzzy skin (All walls, thickness = point thickness = 0.20mm), don't apply to the connector ring
+
+- Max summary printed weight = 120 g
+- Material - PETG
+- CAP ~2.15 g
+- MOUNT ~46.4 g
+- PAYLOAD ~44.57 g
+- NOSECONE ~11.84 g
+~104.96 g
