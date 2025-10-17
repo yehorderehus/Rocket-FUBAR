@@ -13,4 +13,5 @@ Material - PETG
 - MOUNT ~46.4 g
 - PAYLOAD ~44.57 g
 - NOSECONE ~11.84 g
+
 TOTAL ~104.96 g (max recommended = 120 g)
