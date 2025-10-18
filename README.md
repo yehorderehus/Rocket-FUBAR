@@ -3,7 +3,7 @@ Files for rocket model 3d print, which uses a motor with a diameter of 18 mm and
 
 - Layer height - 0.20 mm
 - Infill - 15% 3D Honeycomb
-- Perimeters - 4
+- Perimeters - 4 for mount and cap, 2 for payload and nosecone
 - Brim +
 - Supports - grid, on build plate
 - Nosecone: with Fuzzy skin (All walls, thickness = point thickness = 0.20mm), don't apply to the connector ring
